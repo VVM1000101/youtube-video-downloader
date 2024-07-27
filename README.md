@@ -19,7 +19,7 @@ Install Dependencies:
 
 Make sure you have pytube installed. You can install it using:
   
-'''pip install pytube'''  
+pip install pytube
 
 Run the Script:
 
